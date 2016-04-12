@@ -1,5 +1,5 @@
 {
-  "name": "@numminorihsf/pg",
+  "name": "pg-keepalive-fixed",
   "version": "4.5.3",
   "description": "Fork of PostgreSQL client with TCP keepalive fix",
   "keywords": [
