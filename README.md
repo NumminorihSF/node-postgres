@@ -1,5 +1,8 @@
 #node-postgres
 
+**This is fork of original library with TCP-keepalive fix. Untill original package have not this fix, this package will be updated.**
+
+
 [![Build Status](https://secure.travis-ci.org/brianc/node-postgres.svg?branch=master)](http://travis-ci.org/brianc/node-postgres)
 ![io.js supported](https://img.shields.io/badge/io.js-supported-green.svg)
 
